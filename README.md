@@ -1,4 +1,6 @@
 # Traffic_Sign_Detector
+https://www.youtube.com/watch?v=eTF_eHrCTTE&ab_channel=Sourabh.in.Germany
+
 ipynb notebook for quick proof of concept and practice of traffic sign detection
 
 
